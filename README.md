@@ -41,16 +41,16 @@ Commit message:
 ## Iteration 3
 
 Final behavior:
--
+-The program successfully identifies the maximum value in an array while properly handling edge cases like null or empty arrays.
 
 What was fixed:
--
+-Ensured all JUnit tests pass successfully across standard arrays, single values, negative numbers, and empty arrays. 
 
 What you learned:
--
+-I learned how to use iterative debugging, validate behavior with JUnit, and manage version control with Git commits
 
 Commit message:
--
+-Iteration 3: final version passing all tests
 
 ---
 
