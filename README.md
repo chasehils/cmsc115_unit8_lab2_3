@@ -24,17 +24,17 @@ https://github.com/chasehils/cmsc115_unit8_lab2_3
 
 ## Iteration 2
 
-What changed:
--
+## What changed:
+-Added a null/empty array check and implemented an iterative loop to correctly calculate the maximum value
 
 What improved:
--
+-All 4 JUnit test cases can now pass successfully, correctly handling basic arrays, single values, empty arrays and negative numbers
 
 What still failed and why:
--
+-None, all tests passed
 
 Commit message:
--
+-Iteration 2: fixed logic to pass all tests
 
 ---
 
