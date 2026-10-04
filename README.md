@@ -1,24 +1,24 @@
 # Reflection – AI Number Program Lab
 
 ##  Student Name:
-(Enter your name here)
+Chase Hilsinger
 
 ##  GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/chasehils/cmsc115_unit8_lab2_3
 
 ## Iteration 1
 
-What the AI code does:
--
+## What the AI code does:
+-It defines a method to process an array of numbers, but the initial logic did not correctly compute the expected values for multi-element or edge-case arrays
 
-Tests passed/failed:
--
+## Tests passed/failed:
+-1 test passed (testSingleValue()) and 3 tests failed: (testBasicArray()), testEmptyArray(), and testNavigateNumbers())
 
-What surprised you:
--
+## What surprised you:
+-The AI's first iteration worked for a single value but missed the logic for handling empty arrays and negative numbers
 
-Commit message:
--
+## Commit message:
+-Iteration 1 reflection added
 
 ---
 
