@@ -57,5 +57,8 @@ Commit message:
 ## Final Reflection
 
 - How did AI responses change across prompts?
+- The responses became more targeted and precise as I provided specific error messages and code snippets.
 - How did testing affect your changes?
+- JUnit testing shows exposed logic flaws which drove how the code was refactored and verified.
 - What did version control help you understand?
+- Git helped me to understand how to track incremental progress across multiple iterations, and allowing me to keep a clean history from the beginning of the project to the final version.
